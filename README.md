@@ -5,7 +5,7 @@ this system help you to log the important information and store it somewhere in 
 ## How it works
 basically it is a function that takes two parameters: \
 1 - path : the location in the server that you want to store the log -----> string \
-2 - content : what you want to stroe ------> string 
+2 - content : what you want to store ------> string 
 
 ```c#
 
